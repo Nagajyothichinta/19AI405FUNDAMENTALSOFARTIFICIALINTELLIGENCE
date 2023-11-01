@@ -1,4 +1,4 @@
-###EXP01-Implement-Depth-First-Search-Traversal-of-a-Graph
+EXP01-Implement-Depth-First-Search-Traversal-of-a-Graph
 
 ###AIM:
 To Implement Depth First Search Traversal of a Graph using Python
