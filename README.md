@@ -30,7 +30,7 @@ Visit node 4 Visit node 4
 ![image](https://github.com/Nagajyothichinta/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94191344/1aa26350-057d-49cb-b00d-1e29071ac93b)
 Now, the Stack becomes empty, which means we have visited all the nodes, and our DFS traversal ends.
 
-###ALGORITHM:
+### ALGORITHM:
 1.Construct a Graph with Nodes and Edges
 
 2.Depth First Search Uses Stack and Recursion
@@ -41,7 +41,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 5.If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
 
-###PROGRAM:
+### PROGRAM:
 ```
 Name: Chintha Naga Jyothi
 Regno:212221230015
@@ -70,13 +70,13 @@ path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
-###Sample Input:
+### Sample Input:
 ![image](https://github.com/Nagajyothichinta/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94191344/f18c03cb-2b44-4ed6-a1fc-e6c5a5a53f80)
 
-###Sample Output:
+### Sample Output:
 ![image](https://github.com/Nagajyothichinta/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94191344/49ec0787-823b-4d75-9498-8ba0634122be)
 
-###RESULT:
+### RESULT:
 Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
 
